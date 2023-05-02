@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=urquico&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **urquico/urquico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
